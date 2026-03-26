@@ -32,4 +32,5 @@
 - Battery-powered data logging systems.
 - Prototyping platform for ESP32-based projects.
 
-<img width="2328" height="1252" alt="image" src="https://github.com/user-attachments/assets/15b4ec64-0bfa-4fa8-9300-975be7083f79" />
+<img width="1689" height="920" alt="image" src="https://github.com/user-attachments/assets/096d91fe-435e-46ed-99f8-3c67fa8e6fee" />
+
