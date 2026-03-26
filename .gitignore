@@ -1,0 +1,15 @@
+# === KiCad Project Backups ===
+4-Layer_ESP32_Board_w_Sensors-backups/
+ESP32_Environmental_Sensor_Board-backups/
+*-backups/
+
+# === Windows Metadata (Downloaded Files) ===
+*:Zone.Identifier
+
+# === KiCad Cache & Temp Files ===
+fp-info-cache
+*.bak
+*.kicad_pcb-bak
+*.kicad_prl
+*.kicad_pro-bak
+_autosave-*
